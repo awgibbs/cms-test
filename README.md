@@ -1,6 +1,6 @@
 # Free Flight Compendium
 
-The purpose of this site is to enumerate a collection of topics and organize them by category.
+The purpose of this site is to enumerate a collection of [Topics](./topics) and organize them by [Categories](./categories).
 
 In doing so this site strives to organize information without providing opinions, endorsements, or recommendations.
 
