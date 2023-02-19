@@ -1,4 +1,4 @@
 # Gear
 
-- [Hook Knives](../pages/hook_knives.md)
-- [Gloves](../pages/gloves.md)
+- [Hook Knives](../topics/hook_knives.md)
+- [Gloves](../topics/gloves.md)
